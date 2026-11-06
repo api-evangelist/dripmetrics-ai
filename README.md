@@ -1,4 +1,4 @@
-# dripmetrics-ai
+# DripMetrics AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-dripmetrics-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://dripmetrics.ai/
+DripMetrics AI provides on-demand market microstructure metrics, including Aerodrome B20 pool analytics on Base, Kraken xStocks order‑book metrics, Hyperliquid BBO, depth, execution‑impact, trade, participant, and candle metrics, AI‑explained BTC market summaries, Polymarket diagnostics, and on‑chain risk data for agents, dashboards, and trading workflows. Pay per request with USDC on Base or USDG on Robinhood Chain.
+
+**Areas:** Company · MarketData · Analytics · AI · Crypto
+
+## DripMetrics AI on APIs.io
+
+Everything profiled for DripMetrics AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dripmetrics-ai/](https://apis.io/providers/dripmetrics-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [DripMetrics AI Aerodrome API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-aerodrome-api/) — The Aerodrome API from DripMetrics AI — 6 operation(s) for aerodrome.
+- [DripMetrics AI BTC options API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-btc-options-api/) — The BTC options API from DripMetrics AI — 5 operation(s) for btc options.
+- [DripMetrics AI Discovery API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-discovery-api/) — The Discovery API from DripMetrics AI — 4 operation(s) for discovery.
+- [DripMetrics AI Exchange metrics API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-exchange-metrics-api/) — The Exchange metrics API from DripMetrics AI — 22 operation(s) for exchange metrics.
+- [DripMetrics AI Hyperliquid API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-hyperliquid-api/) — The Hyperliquid API from DripMetrics AI — 9 operation(s) for hyperliquid.
+- [DripMetrics AI Hyperliquid book API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-hyperliquid-book-api/) — The Hyperliquid book API from DripMetrics AI — 4 operation(s) for hyperliquid book.
+- [DripMetrics AI Kraken xStocks API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-kraken-xstocks-api/) — The Kraken xStocks API from DripMetrics AI — 6 operation(s) for kraken xstocks.
+- [DripMetrics AI Market summary API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-market-summary-api/) — The Market summary API from DripMetrics AI — 1 operation(s) for market summary.
+- [DripMetrics AI On Chain API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-on-chain-api/) — The On-chain API from DripMetrics AI — 4 operation(s) for on-chain.
+- [DripMetrics AI Orderbook API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-orderbook-api/) — The Orderbook API from DripMetrics AI — 7 operation(s) for orderbook.
+- [DripMetrics AI Polymarket API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-polymarket-api/) — The Polymarket API from DripMetrics AI — 8 operation(s) for polymarket.
+- [DripMetrics AI Portfolio risk API](https://apis.io/apis/dripmetrics-ai/dripmetrics-ai-portfolio-risk-api/) — The Portfolio risk API from DripMetrics AI — 1 operation(s) for portfolio risk.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Dripmetrics Ai Agentic Access](https://apis.io/agentic-access/dripmetrics-ai/dripmetrics-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AerodromeActivePairsResult](https://apis.io/schemas/dripmetrics-ai/dripmetrics-ai-aerodrome-active-pairs-result/)
+- [AerodromeAmmFlowImpactResult](https://apis.io/schemas/dripmetrics-ai/dripmetrics-ai-aerodrome-amm-flow-impact-result/)
+- [AerodromeOrderFlowConcentrationResult](https://apis.io/schemas/dripmetrics-ai/dripmetrics-ai-aerodrome-order-flow-concentration-result/)
+- [AerodromeTradeActivityResult](https://apis.io/schemas/dripmetrics-ai/dripmetrics-ai-aerodrome-trade-activity-result/)
+- [Catalog](https://apis.io/schemas/dripmetrics-ai/dripmetrics-ai-catalog/)
+- [HyperliquidParticipantConcentrationResult](https://apis.io/schemas/dripmetrics-ai/dripmetrics-ai-hyperliquid-participant-concentration-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Dripmetrics Ai Context](https://apis.io/jsonld/dripmetrics-ai/dripmetrics-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [DripMetrics AI API Rules](https://apis.io/rules/dripmetrics-ai/dripmetrics-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dripmetrics Ai Authentication](https://apis.io/security/dripmetrics-ai/dripmetrics-ai-authentication/)
+- [Dripmetrics Ai Domain Security](https://apis.io/security/dripmetrics-ai/dripmetrics-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dripmetrics.ai/)
+
+## API Evangelist rating
+
+**Kin Score 33.5** — thin · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 61.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 0.0 |
+
+**Agent readiness 29.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dripmetrics-ai/](https://apis.io/providers/dripmetrics-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DripMetrics AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dripmetrics-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
